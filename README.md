@@ -40,7 +40,7 @@
 ```bash
 # 克隆项目
 git clone git@github.com:SilverStr1ng/CesiumExamples.git
-cd cesium-vue3-globe
+cd CesiumExamples
 
 # 安装依赖
 npm install
