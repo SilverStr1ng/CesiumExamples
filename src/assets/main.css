@@ -2,7 +2,13 @@ html,
 body,
 #app,
 #container {
+  margin: 0;
+  padding: 0;
   width: 100vw;
   height: 100vh;
   box-sizing: border-box;
+}
+
+.cesium-widget-credits {
+  display: none!important;
 }
